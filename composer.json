@@ -22,11 +22,11 @@
       }
     ],
     "require": {
-        "jimdo/prometheus_client_php": "dev-store-initialized",
-        "illuminate/support": "^5.6"
+        "jimdo/prometheus_client_php": "dev-master#01c89375e484a55683c65fc2056cfd0869461748",
+        "illuminate/support": "^5.5"
     },
     "require-dev": {
-        "illuminate/http": "^5.6",
+        "illuminate/http": "^5.5",
         "phpunit/phpunit": "^6.0",
         "orchestra/testbench": "~3.0"
     },
