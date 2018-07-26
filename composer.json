@@ -1,5 +1,5 @@
 {
-    "name": "tback/laravel-prometheus-exporter",
+    "name": "m-alp/laravel-prometheus-exporter",
     "description": "A prometheus exporter for the Laravel web framework",
     "keywords": ["laravel", "prometheus"],
     "type": "library",
